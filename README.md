@@ -30,18 +30,18 @@ Link para mais detalhes:
 <h3>Passos para construção do projeto:</h3>
 
 <ol>
-<li>1. Definir o problema a ser predizido/classificado e entender o problema/contexto</li>
-<li>2. Definir, coletar e tratar a base de dados.
+<li> Definir o problema a ser predizido/classificado e entender o problema/contexto</li>
+<li> Definir, coletar e tratar a base de dados.
    <ol>
-       <li> 2.1. Tratar e limpar a base de dados</li>
-       <li> 2.1.1. Retirar os atributos que são falsos preditores (ja contém a resposta do problema a ser predizido/classificado)</li>
-       <li> 2.1.2. Em caso de valores perdidos, trata-los</li>
-       <li> 2.1.3. Em caso de atributos com datas, unificar o formato</li>
-       <li> 2.1.4. Transformar atributos nominais em numéricos</li>
-       <li> 2.1.5. Discretização de dados numéricos</li>
-       <li> 2.1.6. Retirar os atributos "irrelevantes"</li>
-       <li>2.1.7. Validação dos dados e estatística</li>
+       <li>  Tratar e limpar a base de dados</li>
+       <li>  Retirar os atributos que são falsos preditores (ja contém a resposta do problema a ser predizido/classificado)</li>
+       <li>  Em caso de valores perdidos, trata-los</li>
+       <li>  Em caso de atributos com datas, unificar o formato</li>
+       <li>  Transformar atributos nominais em numéricos</li>
+       <li>  Discretização de dados numéricos</li>
+       <li>  Retirar os atributos "irrelevantes"</li>
+       <li>  Validação dos dados e estatística</li>
     </ol>   
 </li>
-<li>3. Treinar a sua máquina e depois testar a predição/classificação para novos casos</li>
+<li> Treinar a sua máquina e depois testar a predição/classificação para novos casos</li>
 </ol>
